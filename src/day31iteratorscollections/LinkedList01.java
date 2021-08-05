@@ -45,21 +45,9 @@ public class LinkedList01 {
 		
 		ll1.set(2, "!!!!");
 		
-		System.out.println(ll1.subList(2, 5));
-		
-		
+		System.out.println(ll1.subList(2, 5));//[!!!!, Mark, Tom] Note: First index is inclusive, second is exclusive
+	
 		System.out.println(ll1);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 
 	}
 
