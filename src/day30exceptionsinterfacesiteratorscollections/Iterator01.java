@@ -12,9 +12,8 @@ public class Iterator01 {
 		list1.add("Ali");
 		list1.add("Can");
 		list1.add("Aliye");
-		list1.add("Canan");
 		
-		System.out.println(list1);//[Ali, Can, Aliye, Canan]
+		System.out.println(list1);//[Ali, Can, Aliye]
 		
 		for(String w : list1) {
 			
@@ -23,7 +22,7 @@ public class Iterator01 {
 		}
 		
 		//By using for-loop we are not able to change the collection elements
-		System.out.println(list1);//[Ali, Can, Aliye, Canan]
+		System.out.println(list1);//[Ali, Can, Aliye]
 		
 		                      //Use Iterator
 		
