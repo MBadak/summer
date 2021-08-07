@@ -1,0 +1,11 @@
+package day33collections;
+
+public class HashMap {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}
