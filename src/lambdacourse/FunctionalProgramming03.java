@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class FunctionalProgrammin03 {
+public class FunctionalProgramming03 {
 
 	public static void main(String[] args) {
 		
