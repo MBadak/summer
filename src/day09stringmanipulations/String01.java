@@ -8,7 +8,7 @@ public class String01 {
 		
 		//15.Method: substring() <== Used to get a specific part of a String + Returns String
 		String s1 = "Java is easy";
-		
+		//hd
 		System.out.println(s1.substring(5, 7));//is <== starting index is inclusive, ending index is exclusive
 
 		System.out.println(s1.substring(1, 4));//ava
