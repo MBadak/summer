@@ -40,7 +40,7 @@ public class String01 {
 		//System.out.println(s3.substring(5, 3));// Starting index cannot be greater than ending index
 		
 		/*
-		 	If you get red underline while you type code, it is called "Compile Time Error"
+		 	If you get red underline while you type code, it is called "Compile Time Error"git remote -v
 		 	If you get red error messages on the console after running your code, it is called "Run Time Error"
 		*/
 		
